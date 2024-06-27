@@ -2,14 +2,6 @@
 
 This is a Streamlit web application that implements a dynamic pricing model for ride-sharing services. The app allows users to input various parameters and get a predicted ride price based on the trained Random Forest Regressor model. Additionally, it provides visualizations of the model's predictions compared to actual values.
 
-## Table of Contents
-
-- [Dynamic Pricing Model App](#dynamic-pricing-model-app)
-  - [Table of Contents](#table-of-contents)
-  - [Description](#description)
-  - [Features](#features)
-  - [Installation](#installation)
-  - [Usage](#usage)
 
 ## Description
 
